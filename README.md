@@ -1,16 +1,37 @@
-## Hi there 👋
+# 🌟 Hi, I'm Mahzan Musa
 
-<!--
-**mahzanmusa/mahzanmusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Crafting clean code, solving real problems, and building things that matter.
 
-Here are some ideas to get you started:
+------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+-   💼 Passionate about software, and tech automation
+-   🧰 Love turning ideas into functional, elegant solutions
+-   🧪 Always experimenting with new technologies
+-   📚 Constant learner \| Problem solver \| Builder
+
+------------------------------------------------------------------------
+
+## 🛠️ Tech Stack
+
+**Languages:**\
+`Python` • `C#` • `PHP` • `HTML` • `CSS`
+
+**Frameworks & Tools:**\
+`Django` • `FastAPI` • `Flask`
+
+**DevOps & Infra:**\
+`AWS` • `GitHub Actions`
+
+------------------------------------------------------------------------
+
+## 🔗 Connect With Me
+
+💼 **LinkedIn:** <a href="https://www.linkedin.com/in/mahzan" target="_blank">linkedin.com/in/mahzan</a>
+
+------------------------------------------------------------------------
+
+## ✨ Fun Fact
+
+I like building things people actually use --- even the small ones.
